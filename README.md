@@ -1,4 +1,4 @@
-# Women-Clothing-Review
+# Customer Sentiment & Recommendation Analysis | E-commerce Text Mining & Predictive Modeling
 
 **Business Context:**  
 A leading women's clothing e-commerce company wants to analyze customer behavior by studying demographics and customer reviews.
